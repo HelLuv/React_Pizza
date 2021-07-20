@@ -3,7 +3,6 @@ import { Header } from './components';
 import { Home, Cart } from './Pages';
 
 const App = () => {
-
   return (
     <div className="wrapper">
       <Header />
